@@ -1,0 +1,2 @@
+# AZNcoin
+AZNcoin
